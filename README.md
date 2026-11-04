@@ -10,7 +10,7 @@ This repository is the **public distribution channel only** for official ANIMIND
 
 ## Current status
 
-No stable ANIMIND release is published here yet. The updater remains inactive until the production signing public key is pinned in the private application source, the release package and signed manifest are prepared, and installation/update/rollback are tested on the supported Windows + Blender environment.
+The production Ed25519 public key has been pinned in the private application source. No stable ANIMIND release has been published here yet. The updater remains inactive until a production-ready package and signed manifest are published, the public feed is configured, and installation/update/rollback are tested on the supported Windows + Blender environment.
 
 ## Expected release files
 
