@@ -1,0 +1,10 @@
+{
+  "app": "ANIMIND Studio",
+  "channel": "stable",
+  "version": "0.4.1",
+  "download_url": "https://github.com/ameengojo07-code/Animind-Releases/releases/download/v0.4.1/ANIMIND_Update_v0.4.1.zip",
+  "sha256": "0df4a28ce0713626b22b828a1b46d5c2b328280546331eb38bb11ef2e5c9ae11",
+  "size_bytes": 50971,
+  "release_notes": "Integrated ANIMIND Studio update. Review and complete the release checks before publishing this manifest.",
+  "signature": "yuDaidbZfMb82DQi+cV4GLGajQseF/FoQqiQDmvz16aW/Tqx41NMFznwO7S0y3J79C1AQK+0/4sbN3cksNqGDg=="
+}
