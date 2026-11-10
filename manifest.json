@@ -1,10 +1,10 @@
 {
   "app": "ANIMIND Studio",
   "channel": "stable",
-  "version": "0.4.1",
-  "download_url": "https://github.com/ameengojo07-code/Animind-Releases/releases/download/v0.4.1/ANIMIND_Update_v0.4.1.zip",
-  "sha256": "0df4a28ce0713626b22b828a1b46d5c2b328280546331eb38bb11ef2e5c9ae11",
-  "size_bytes": 50971,
-  "release_notes": "Integrated ANIMIND Studio update. Review and complete the release checks before publishing this manifest.",
-  "signature": "yuDaidbZfMb82DQi+cV4GLGajQseF/FoQqiQDmvz16aW/Tqx41NMFznwO7S0y3J79C1AQK+0/4sbN3cksNqGDg=="
+  "version": "0.4.3",
+  "download_url": "https://github.com/ameengojo07-code/Animind-Releases/releases/download/v0.4.3/ANIMIND_Update_v0.4.3.zip",
+  "sha256": "2afcce93284a71470ea02a61e7ef18ebbe6b308567d4fd5a5978387707c4adbd",
+  "size_bytes": 60345,
+  "release_notes": "ANIMIND 0.4.3 adds a human-head sculpt starting form and the in-app signed GitHub release publisher. After this one-time publisher-enabled bootstrap is installed, future update ZIPs and signed manifests can be published from ANIMIND using Connect GitHub and Publish Update. Blender 4.5 UI smoke testing is still required before calling the sculpt workflow runtime-verified.",
+  "signature": "38R/SIonOcopIhHGm5DVSblNNdM/tMEpNaQek7OhvD/VMaCqt4z8W+Hz4KFfHsck1qQGycdPh0GJq3mhOicwAw=="
 }
