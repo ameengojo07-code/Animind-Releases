@@ -2,9 +2,9 @@
   "app": "ANIMIND Studio",
   "channel": "stable",
   "version": "0.4.4",
-  "download_url": "https://github.com/ameengojo07-code/Animind-Releases/releases/download/untagged-d14910a002d00896d031/ANIMIND_Update_v0.4.4.zip",
+  "download_url": "https://github.com/ameengojo07-code/Animind-Releases/releases/download/v0.4.4/ANIMIND_Update_v0.4.4.zip",
   "sha256": "01da013fb37cc35eb489343f39954092eaab9a8779c7b041f6fff18f782a8718",
   "size_bytes": 68733,
   "release_notes": "# ANIMIND Studio v0.4.4\n\n## Creation Engine foundation\n\n- Adds a declarative Scene Production Engine for assembling complete Blender scenes from validated component specifications.\n- Adds lathed profile meshes, rods between explicit 3D points, and bounded custom vertex/face meshes.\n- Adds per-component transforms, bevel and smooth shading controls, and bounded Principled BSDF material settings including emission.\n- Adds real Blender AREA, POINT, SPOT and SUN light creation, active camera creation, and approval-gated EEVEE Next / Cycles rendering.\n- Connects the new tools to the existing ANIMIND desktop agent and authenticated Blender 4.5 bridge.\n\n## Delivery and reliability\n\n- Includes the Scene Production module in the integrated desktop/add-on package and automatic updater archive.\n- Adds a post-update health check for the Scene Production module in the configured Blender add-on folder.\n- Updates the in-app publisher to use the matching bundled add-on source when the active add-on is older.\n- Keeps release signing on the Windows PC; the private key, passphrase, GitHub publishing token, Blender files, settings and local memory are not uploaded as part of the release.\n\n## Scope note\n\nThis is the first scene-assembly foundation, not a claim that every Blender workflow is complete. UV authoring, image texture pipelines, general-purpose retopology, rigging and animation authoring remain future work.",
-  "signature": "YipvIY3y7PiFMwq5CU8YtyQMrSfsBo+opuyTNXVlfvBzSMWbqTZ9gcni/pacw14xKzBQmjrKA6NtsPcTwhOyDg=="
+  "signature": "9v6cJ53qZkbTMVb2Qml1ABg9t0zLjwulX0mnhRSwY6lnpxx/bPaH0sOcKUMLyHQKoe8URcCDRWwtiZtuioK0BA=="
 }
